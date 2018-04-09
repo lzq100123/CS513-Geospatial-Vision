@@ -6,7 +6,7 @@ from PIL import Image
 from _io import BytesIO
 
 
-API_KEY = 'Akp-ZwzWtyJWiu846tJV_U_GYHdD_XlFSSi90_zkqCnpH4cHnETF-GoQwpalvQ-V'
+API_KEY = ''
 BaseUrl ='http://dev.virtualearth.net/REST/V1/Imagery/Metadata/Aerial/%f,%f?zl=%d&key=%s'
 
 #constraint 
