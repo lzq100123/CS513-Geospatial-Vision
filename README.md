@@ -1,5 +1,5 @@
-# CS513-Geospatial-Vision
+Geospatial-Vision
 
-Assignments and Project for CS513
+Projects related to Computer Vision and Autonomous Driving
 
 Author: Zhiquan Li
